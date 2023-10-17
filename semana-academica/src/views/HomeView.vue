@@ -3,6 +3,8 @@ import TheWelcome from '../components/TheWelcome.vue'
 import ProductItem from '@/components/ProductItem.vue'
 
 const nomeUsuario = ref('');
+const nomeUsuario = ref('teste')
+
 </script>
 
 <template>
