@@ -1,0 +1,49 @@
+front-end: html, CSS e JavaScript (trabalha com animações)
+react, vue, angular -> bibliotecas de javascript
+
+var a = 1; //numero
+var b = 'olá';
+var c = function(){
+    alert('ola');
+}; //função
+if(condição){}else{}
+while(condição){}
+do{}while{}
+&& -> and
+|| -> or
+
+console.log("Voto obrigatório") //console.log - print
+
+'1' == 1; //analisa o valor do numérico
+'1' === 1; //compara o tipo, retorna falso pq um é string e outro é inteiro
+
+=> indica function
+
+const subtração = function(a,b) {}
+const multiplicação = (a,b) => {}
+const divisão = (a,b) => a/b;
+
+Document Object Model -> árvore do html, estrutura os elementos do html com os filhos de cada elemento, os pais...
+                html
+        head            body
+
+Por que usar uma lib ou framework? 
+- Agilizar o desenvolvimento de aplicações web
+- Facilitar a manipulação do DOM 
+- Padronizar o projeto
+
+Por que usar o VueJS?
+- Curva de aprendizagem é menor comparada com os 'concorrentes' (mais fácil pra quem tá começando)
+- Mais leve
+- Melhor performance
+- Mantido pela comunidade
+
+Conceitos básicos:
+- Renderização declarativa
+- Reatividade
+- Progressivo
+- Single file Component
+
+o node é a ferramenta usada para rodar o javascript na máquina
+
+
